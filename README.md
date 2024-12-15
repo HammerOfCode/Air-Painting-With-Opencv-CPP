@@ -1,18 +1,18 @@
 # Air Painting for Remote Signing Systems.
-|Color Picker|
-color picker detects the color of the markers based on Hue Saturation Values
+## |Color Picker|
+### color picker detects the color of the markers based on Hue Saturation Values
 ![colorpicker1]
 ![colorpicker2]
 ![colorpicker3]
 
-#Masking Markers 
+### Masking Markers 
 
-#Countors of the pens 
+## Countors of the pens 
 ![contorns]
-#Bounding boxes to get the axis as the drawing point
+## Bounding boxes to get the axis as the drawing point
 ![boundingbox]
 
-#Results
+## Results
 ![result]
 
 
